@@ -37,7 +37,7 @@ a:hover{
 
 header#cabecalho img#icone{
     position: absolute;
-    left: 800px;
+    left: 950px;
     top: 70px;
 }
 
@@ -88,7 +88,7 @@ figure.foto-legenda figcaption{
     padding: 10px;
     box-sizing: border-box;
     transition: opacity 1s;
-    font-size: x-large;
+    font-size: large;
 }
 
 figure.foto-legenda:hover figcaption{
