@@ -193,10 +193,12 @@ table#tabelaspec td.ce{
     background-color: #606060;
     vertical-align: top;
     font-weight: bold;
+    text-align: right;
 }
 
 table#tabelaspec td.cd{
     background-color: #cecece;
+    text-align: left;
 }
 
 table#tabelaspec caption{
@@ -244,5 +246,9 @@ footer#rodape{
 
 footer#rodape p{
     text-align: center;
+}
+
+video#filme-aside{
+    width: 345px;
 }
 
